@@ -18,7 +18,7 @@ This repository contains Jupyter notebooks with examples of usage for common Pyt
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Open the desired Jupyter notebook using [colab](b.research.google.com)
+2. Open the desired Jupyter notebook using editor of choice or [colab](b.research.google.com)
 3. Follow the instructions and code examples provided in each notebook to learn and practice.
 
 Feel free to explore, experiment, and contribute to this repository by adding more notebooks or improving existing ones. 
